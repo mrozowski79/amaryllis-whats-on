@@ -124,7 +124,8 @@
       "description": {
         "en": "A relaxed ping-pong tournament with food and drinks at the Avocado Bar garden.",
         "de": "Ein entspanntes Ping-Pong-Turnier mit Essen und Drinks im Garten der Avocado Bar."
-      }
+      },
+      "sourceUrl": "https://www.myswitzerland.com/en-sg/experiences/events/avo-ping-pong-tournament/"
     },
     {
       "id": "cattle-show-2026-10-21",
@@ -151,7 +152,8 @@
       "description": {
         "en": "A winter visit by Samichlaus through Grindelwald village.",
         "de": "Ein winterlicher Besuch des Samichlaus im Dorf Grindelwald."
-      }
+      },
+      "sourceUrl": "https://www.myswitzerland.com/de-de/erlebnisse/veranstaltungen/dr-samichlous-chund-z-bsuech/"
     },
     {
       "id": "apres-ski-2026-12-12",
@@ -164,7 +166,8 @@
       "description": {
         "en": "An après-ski party in Grindelwald village.",
         "de": "Eine Après-Ski-Party im Dorf Grindelwald."
-      }
+      },
+      "sourceUrl": "https://www.myswitzerland.com/en-sg/experiences/events/apres-ski-party/"
     },
     {
       "id": "pool-party-2026-12-20",
@@ -177,7 +180,8 @@
       "description": {
         "en": "A pool party at the Grindelwald indoor pool with DJ music, cocktails and snacks.",
         "de": "Eine Pool Party im Hallenbad Grindelwald mit DJ-Musik, Cocktails und Snacks."
-      }
+      },
+      "sourceUrl": "https://www.myswitzerland.com/en-us/experiences/events/pool-party/"
     },
     {
       "id": "wengen-fondue-workshop-2026-09-24",
@@ -452,7 +456,8 @@
       "sourceName": {
         "en": "SID Events Grindelwald",
         "de": "SID Events Grindelwald"
-      }
+      },
+      "sourceUrl": "https://www.myswitzerland.com/de/erlebnisse/veranstaltungen/eis-disco-1/"
     },
     {
       "id": "silvester-party-2026-12-31",
@@ -469,7 +474,8 @@
       "sourceName": {
         "en": "SID Events Grindelwald",
         "de": "SID Events Grindelwald"
-      }
+      },
+      "sourceUrl": "https://www.myswitzerland.com/en-us/experiences/events/new-years-eve-1/"
     }
   ]
 }
