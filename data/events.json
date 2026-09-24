@@ -386,6 +386,39 @@
         "en": "A Christmas concert by Wengen's local music society.",
         "de": "Ein Weihnachtskonzert der Musikgesellschaft Wengen."
       }
+    },
+    {
+      "id": "oktoberfest-espresso-bar-2026-10-10",
+      "date": "2026-10-10",
+      "area": "Grindelwald",
+      "title": { "en": "Oktoberfest at Espresso Bar", "de": "Oktoberfest in der Espresso Bar" },
+      "description": { "en": "An Oktoberfest evening at Espresso Bar in Grindelwald.", "de": "Ein Oktoberfest-Abend in der Espresso Bar in Grindelwald." },
+      "sourceName": { "en": "SID Events Grindelwald", "de": "SID Events Grindelwald" }
+    },
+    {
+      "id": "pop-up-bar-sportzentrum-2026-12-25",
+      "date": "2026-12-25",
+      "area": "Grindelwald",
+      "title": { "en": "Pop-Up Bar at the Sports Centre", "de": "Pop-Up Bar im Sportzentrum" },
+      "description": { "en": "A festive pop-up bar at Grindelwald Sports Centre, running until 29 December.", "de": "Eine festliche Pop-Up Bar im Sportzentrum Grindelwald, bis 29. Dezember." },
+      "sourceName": { "en": "SID Events Grindelwald", "de": "SID Events Grindelwald" }
+    },
+    {
+      "id": "eis-disco-2026-12-29",
+      "date": "2026-12-29",
+      "area": "Grindelwald",
+      "title": { "en": "Ice Disco", "de": "Eis Disco" },
+      "description": { "en": "An ice disco with music, drinks and snacks at Grindelwald Sports Centre.", "de": "Eine Eis Disco mit Musik, Getränken und Snacks im Sportzentrum Grindelwald." },
+      "sourceName": { "en": "SID Events Grindelwald", "de": "SID Events Grindelwald" }
+    },
+    {
+      "id": "silvester-party-2026-12-31",
+      "date": "2026-12-31",
+      "area": "Grindelwald",
+      "title": { "en": "New Year's Eve Party", "de": "Silvester Party" },
+      "description": { "en": "New Year's Eve celebration at Eiger+ Platz in Grindelwald.", "de": "Silvesterfeier auf dem Eiger+ Platz in Grindelwald." },
+      "sourceName": { "en": "SID Events Grindelwald", "de": "SID Events Grindelwald" }
     }
   ]
+  
 }
