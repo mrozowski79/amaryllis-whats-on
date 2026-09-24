@@ -5,9 +5,8 @@ const sources = JSON.parse(await readFile('data/sources.json', 'utf8'));
 const copy = {
   en: { title: "What's On in Grindelwald", intro: 'Browse this month and the next three months at a glance. Select an event to open a concise event page.', updated: 'Last checked', calendar: 'Calendar', agenda: 'Upcoming events', empty: 'The next verified events are being prepared. Please check the official calendars below in the meantime.', nearby: 'Nearby: Wengen', source: 'Official details', sources: 'Official calendars' },
   de: { title: 'Was ist los in Grindelwald?', intro: 'Dieser Monat und die nächsten drei Monate auf einen Blick. Wähle eine Veranstaltung, um eine kompakte Veranstaltungsseite zu öffnen.', updated: 'Zuletzt geprüft', calendar: 'Kalender', agenda: 'Kommende Veranstaltungen', empty: 'Die nächsten verifizierten Veranstaltungen werden gerade vorbereitet. In der Zwischenzeit findest du sie in den offiziellen Kalendern unten.', nearby: 'In der Nähe: Wengen', source: 'Offizielle Informationen', sources: 'Offizielle Kalender' }
-};
-
-const esc = (value = '') => String(value).replace(/[&<>"']/g, char => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[char]));
+};const esc = (value = '') => String(value).replace(/[&<>"']/g, char => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[char]));
+const eventSourceName = (event, language) => event.sourceName?.[language] || (event.sourceUrl ? (language === 'de' ? 'Schweiz Tourismus' : 'Switzerland Tourism') : '');
 const iso = date => date.toISOString().slice(0, 10);
 const today = new Date();
 today.setHours(0, 0, 0, 0);
@@ -27,7 +26,7 @@ function monthGrid(start, language, locale, eventsByDate) {
     const date = new Date(start.getFullYear(), start.getMonth(), day);
     const dateIso = iso(date);
     const isPast = dateIso < todayIso;
-    const eventLinks = (eventsByDate.get(dateIso) || []).map(event => '<a class="calendar-event' + (event.area === 'Wengen' ? ' nearby' : '') + '" href="events/' + encodeURIComponent(event.id) + '/" target="_blank" rel="noopener noreferrer">' + esc(event.title[language]) + '</a>').join('');
+    const eventLinks = (eventsByDate.get(dateIso) || []).map(event => '<a class="calendar-event' + (event.area === 'Wengen' ? ' nearby' : '') + '" href="events/' + encodeURIComponent(event.id) + '/" target="_blank" rel="noopener noreferrer">' + esc(event.title[language]) + (eventSourceName(event, language) ? '<small>' + esc(eventSourceName(event, language)) + '</small>' : '') + '</a>').join('');
     cells += '<div class="day' + (isPast ? ' past' : '') + (dateIso === todayIso ? ' today' : '') + '"><span class="day-number">' + day + '</span>' + eventLinks + '</div>';
   }
   return '<section class="month" aria-label="' + esc(monthLabel) + '"><h3>' + esc(monthLabel) + '</h3><div class="weekdays">' + weekdays.map(day => '<span>' + day + '</span>').join('') + '</div><div class="month-grid">' + cells + '</div></section>';
