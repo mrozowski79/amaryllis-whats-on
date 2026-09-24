@@ -1,34 +1,391 @@
 {
   "updatedAt": "2026-09-24",
   "events": [
-    {"id":"sake-and-dine-2026-09-25","date":"2026-09-25","area":"Grindelwald","title":{"en":"Sake and Dine","de":"Sake and Dine"},"description":{"en":"An evening pairing Japanese sake with seasonal food in Grindelwald.","de":"Ein Genussabend mit japanischem Sake und saisonalen Speisen in Grindelwald."},"sourceUrl":"https://www.myswitzerland.com/en-us/experiences/events/events-search/-/grindelwald/"},
-    {"id":"folklorenights-2026-09-26","date":"2026-09-26","area":"Grindelwald","title":{"en":"Folklorenights","de":"Folklorenights"},"description":{"en":"Traditional Swiss folk music at Restaurant Grund; the final evening of the 2026 summer series.","de":"Traditionelle Schweizer Volksmusik im Restaurant Grund; der letzte Abend der Sommerserie 2026."},"sourceUrl":"https://www.myswitzerland.com/en-us/experiences/events/folklorenights/"},
-    {"id":"akim-tree-2026-09-26","date":"2026-09-26","area":"Grindelwald","title":{"en":"Akim Tree live in Concert","de":"Akim Tree live im Konzert"},"description":{"en":"Singer-songwriter Akim Tree performs at the Belvedere. Series runs until 17 October.","de":"Singer-Songwriter Akim Tree spielt im Belvedere. Die Serie läuft bis 17. Oktober."},"sourceUrl":"https://www.myswitzerland.com/en-us/experiences/events/events-search/-/grindelwald/"},
-    {"id":"historical-village-tour-2026-09-29","date":"2026-09-29","area":"Grindelwald","title":{"en":"Historical & Culinary Village Tour","de":"Historischer und kulinarischer Dorfrundgang"},"description":{"en":"A guided introduction to Grindelwald's village history, stories and local food culture.","de":"Ein geführter Einblick in die Dorfgeschichte, Geschichten und lokale Esskultur von Grindelwald."},"sourceUrl":"https://www.myswitzerland.com/en-us/experiences/events/historical-culinary-village-tour/"},
-    {"id":"goat-show-2026-10-01","date":"2026-10-01","area":"Grindelwald","title":{"en":"Jungfrau Region Goat Show","de":"Ziegenschau der Jungfrau-Region"},"description":{"en":"A goat show by the Grindelwald Goat Breeders' Association in Burglauenen.","de":"Ziegenschau des Grindelwalder Ziegenzuchtvereins in Burglauenen."},"sourceUrl":"https://www.myswitzerland.com/en-us/experiences/events/events-search/-/grindelwald/"},
-    {"id":"avocado-festival-2026-10-03","date":"2026-10-03","area":"Grindelwald","title":{"en":"Avocado Backyard Festival","de":"Avocado Backyard Festival"},"description":{"en":"Live music, drinks, grilled food and market stalls in the Avocado Bar backyard.","de":"Live-Musik, Drinks, Grillgerichte und Marktstände im Hinterhof der Avocado Bar."},"sourceUrl":"https://www.myswitzerland.com/en-us/experiences/events/events-search/-/grindelwald/"},
-    {"id":"grindelwald-market-2026-10-05","date":"2026-10-05","area":"Grindelwald","title":{"en":"Grindelwald Market 2026","de":"Grindelwald Markt 2026"},"description":{"en":"The annual market along Grindelwald's village street.","de":"Der jährliche Markt entlang der Dorfstrasse von Grindelwald."},"sourceUrl":"https://www.myswitzerland.com/en-us/experiences/events/grindelwald-market-2026/"},
-    {"id":"graubunden-weekend-2026-10-10","date":"2026-10-10","area":"Grindelwald","title":{"en":"Graubünden Weekend","de":"Graubünden-Wochenende"},"description":{"en":"A two-day Graubünden-themed weekend in Grindelwald, 10–11 October.","de":"Ein zweitägiges Graubünden-Wochenende in Grindelwald, 10.–11. Oktober."},"sourceUrl":"https://www.myswitzerland.com/en-us/experiences/events/events-search/-/grindelwald/"},
-    {"id":"avo-ping-pong-2026-10-11","date":"2026-10-11","area":"Grindelwald","title":{"en":"Avo Ping Pong Tournament","de":"Avo Ping-Pong-Turnier"},"description":{"en":"A relaxed ping-pong tournament with food and drinks at the Avocado Bar garden.","de":"Ein entspanntes Ping-Pong-Turnier mit Essen und Drinks im Garten der Avocado Bar."},"sourceUrl":"https://www.myswitzerland.com/en-us/experiences/events/events-search/-/grindelwald/"},
-    {"id":"cattle-show-2026-10-21","date":"2026-10-21","area":"Grindelwald","title":{"en":"Autumn Cattle Show 2026","de":"Herbstliche Viehschau 2026"},"description":{"en":"A traditional cattle show in Grindelwald, running 21–22 October.","de":"Eine traditionelle Viehschau in Grindelwald, 21.–22. Oktober."},"sourceUrl":"https://www.myswitzerland.com/en-us/experiences/events/autumn-cattle-show-2026/"},
-    {"id":"samichlous-2026-12-06","date":"2026-12-06","area":"Grindelwald","title":{"en":"Dr Samichlous chund z Bsuech","de":"Dr Samichlous chund z Bsuech"},"description":{"en":"A winter visit by Samichlaus through Grindelwald village.","de":"Ein winterlicher Besuch des Samichlaus im Dorf Grindelwald."},"sourceUrl":"https://www.myswitzerland.com/en-us/experiences/events/events-search/-/grindelwald/"},
-    {"id":"apres-ski-2026-12-12","date":"2026-12-12","area":"Grindelwald","title":{"en":"Après Ski Party","de":"Après-Ski-Party"},"description":{"en":"An après-ski party in Grindelwald village.","de":"Eine Après-Ski-Party im Dorf Grindelwald."},"sourceUrl":"https://www.myswitzerland.com/en-us/experiences/events/events-search/-/grindelwald/"},
-    {"id":"pool-party-2026-12-20","date":"2026-12-20","area":"Grindelwald","title":{"en":"Pool Party","de":"Pool Party"},"description":{"en":"A pool party at the Grindelwald indoor pool with DJ music, cocktails and snacks.","de":"Eine Pool Party im Hallenbad Grindelwald mit DJ-Musik, Cocktails und Snacks."},"sourceUrl":"https://www.myswitzerland.com/en-us/experiences/events/events-search/-/grindelwald/"},
-    {"id":"wengen-fondue-workshop-2026-09-24","date":"2026-09-24","area":"Wengen","title":{"en":"Fondue Workshop","de":"Fondue-Workshop"},"description":{"en":"A fondue workshop in Wengen.","de":"Ein Fondue-Workshop in Wengen."},"sourceUrl":"https://www.myswitzerland.com/en-ch/experiences/events/events-search/-/grindelwald-wengen/"},
-    {"id":"wengen-gustav-2026-09-24","date":"2026-09-24","area":"Wengen","title":{"en":"Live Music: Gustav","de":"Live-Musik: Gustav"},"description":{"en":"Live music at Hotel Victoria Lauberhorn. Series runs until 22 October.","de":"Live-Musik im Hotel Victoria Lauberhorn. Die Serie läuft bis 22. Oktober."},"sourceUrl":"https://www.myswitzerland.com/en-ch/experiences/events/events-search/-/grindelwald-wengen/"},
-    {"id":"wengen-forest-yoga-2026-09-24","date":"2026-09-24","area":"Wengen","title":{"en":"Forest Walk & Yoga","de":"Waldwanderung & Yoga"},"description":{"en":"A combined forest walk and yoga activity in Wengen. Series runs until 29 October.","de":"Eine Kombination aus Waldwanderung und Yoga in Wengen. Die Serie läuft bis 29. Oktober."},"sourceUrl":"https://www.myswitzerland.com/en-ch/experiences/events/events-search/-/grindelwald-wengen/"},
-    {"id":"wengen-mat-pilates-2026-09-24","date":"2026-09-24","area":"Wengen","title":{"en":"Mat Pilates","de":"Mat Pilates"},"description":{"en":"A Mat Pilates programme at Grand Hotel Belvedere Wengen, running until 29 October.","de":"Ein Mat-Pilates-Programm im Grand Hotel Belvedere Wengen, bis 29. Oktober."},"sourceUrl":"https://www.myswitzerland.com/en-ch/experiences/events/events-search/-/grindelwald-wengen/"},
-    {"id":"wengen-acoustic-duo-2026-09-24","date":"2026-09-24","area":"Wengen","title":{"en":"Acoustic Duo TaDa","de":"Acoustic Duo TaDa"},"description":{"en":"An acoustic live-music performance at Grand Hotel Belvedere Wengen.","de":"Ein akustischer Live-Musikabend im Grand Hotel Belvedere Wengen."},"sourceUrl":"https://www.myswitzerland.com/en-ch/experiences/events/events-search/-/grindelwald-wengen/"},
-    {"id":"wengen-sauna-infusion-2026-09-25","date":"2026-09-25","area":"Wengen","title":{"en":"Sauna Infusion","de":"Sauna-Aufguss"},"description":{"en":"Sauna infusion sessions at Hotel Braunbär, running until 30 October.","de":"Sauna-Aufgüsse im Hotel Braunbär, bis 30. Oktober."},"sourceUrl":"https://www.myswitzerland.com/en-ch/experiences/events/events-search/-/grindelwald-wengen/"},
-    {"id":"wengen-yoga-2026-09-25","date":"2026-09-25","area":"Wengen","title":{"en":"Yoga at Hotel Braunbär","de":"Yoga im Hotel Braunbär"},"description":{"en":"A yoga session in Wengen.","de":"Eine Yoga-Stunde in Wengen."},"sourceUrl":"https://www.myswitzerland.com/en-ch/experiences/events/events-search/-/grindelwald-wengen/"},
-    {"id":"wengen-chasteilet-2026-09-26","date":"2026-09-26","area":"Wengen","title":{"en":"Chästeilet Wengen","de":"Chästeilet Wengen"},"description":{"en":"The traditional Wengen cheese-sharing event, held 26–27 September.","de":"Das traditionelle Wengener Käseteilen, 26.–27. September."},"sourceUrl":"https://www.myswitzerland.com/en-us/destinations/wengen/"},
-    {"id":"wengen-mountain-brunch-2026-09-27","date":"2026-09-27","area":"Wengen","title":{"en":"Männlichen Mountain Brunch","de":"Bergbrunch Männlichen"},"description":{"en":"Mountain brunch at Männlichen, with dates through 25 October.","de":"Bergbrunch auf dem Männlichen mit Terminen bis 25. Oktober."},"sourceUrl":"https://www.myswitzerland.com/en-ch/experiences/events/events-search/-/grindelwald-wengen/"},
-    {"id":"wengen-uptown-lights-2026-09-27","date":"2026-09-27","area":"Wengen","title":{"en":"Uptown Lights","de":"Uptown Lights"},"description":{"en":"An evening event at the Braunbärbar in Wengen.","de":"Ein Abendevent in der Braunbärbar in Wengen."},"sourceUrl":"https://www.myswitzerland.com/en-ch/experiences/events/events-search/-/grindelwald-wengen/"},
-    {"id":"wengen-yin-yoga-2026-09-28","date":"2026-09-28","area":"Wengen","title":{"en":"Yin Yoga","de":"Yin Yoga"},"description":{"en":"A Yin Yoga session in Wengen.","de":"Eine Yin-Yoga-Stunde in Wengen."},"sourceUrl":"https://www.myswitzerland.com/en-ch/experiences/events/events-search/-/grindelwald-wengen/"},
-    {"id":"wengen-village-tour-2026-09-28","date":"2026-09-28","area":"Wengen","title":{"en":"Wengen Village Tour","de":"Dorfrundgang Wengen"},"description":{"en":"A guided walk through Wengen village.","de":"Ein geführter Rundgang durch das Dorf Wengen."},"sourceUrl":"https://www.myswitzerland.com/en-ch/experiences/events/events-search/-/grindelwald-wengen/"},
-    {"id":"wengen-colin-flint-2026-09-30","date":"2026-09-30","area":"Wengen","title":{"en":"Colin Flint Live Music","de":"Colin Flint Live-Musik"},"description":{"en":"Live music at Hotel Braunbär in Wengen.","de":"Live-Musik im Hotel Braunbär in Wengen."},"sourceUrl":"https://www.myswitzerland.com/de/erlebnisse/veranstaltungen/veranstaltungen-suche/-/wengen/"},
-    {"id":"wengen-floating-sound-bath-2026-10-24","date":"2026-10-24","area":"Wengen","title":{"en":"Floating Sound Bath","de":"Floating Sound Bath"},"description":{"en":"A floating sound bath at Hotel Braunbär Wengen.","de":"Ein Floating Sound Bath im Hotel Braunbär Wengen."},"sourceUrl":"https://www.myswitzerland.com/en-ch/experiences/events/events-search/-/grindelwald-wengen/"},
-    {"id":"wengen-gluhwein-festival-2026-12-19","date":"2026-12-19","area":"Wengen","title":{"en":"8th Mulled Wine Festival","de":"8. Glühwein-Festival"},"description":{"en":"Wengen's mulled-wine festival.","de":"Das Glühwein-Festival in Wengen."},"sourceUrl":"https://www.myswitzerland.com/en-ch/experiences/events/events-search/-/grindelwald-wengen/"},
-    {"id":"wengen-christmas-concert-2026-12-20","date":"2026-12-20","area":"Wengen","title":{"en":"Wengen Christmas Concert","de":"Weihnachtskonzert Musikgesellschaft Wengen"},"description":{"en":"A Christmas concert by Wengen's local music society.","de":"Ein Weihnachtskonzert der Musikgesellschaft Wengen."},"sourceUrl":"https://www.myswitzerland.com/en-ch/experiences/events/events-search/-/grindelwald-wengen/"}
+    {
+      "id": "sake-and-dine-2026-09-25",
+      "date": "2026-09-25",
+      "area": "Grindelwald",
+      "title": {
+        "en": "Sake and Dine",
+        "de": "Sake and Dine"
+      },
+      "description": {
+        "en": "An evening pairing Japanese sake with seasonal food in Grindelwald.",
+        "de": "Ein Genussabend mit japanischem Sake und saisonalen Speisen in Grindelwald."
+      },
+      "sourceUrl": "https://www.myswitzerland.com/en-au/experiences/events/sake-and-dine/"
+    },
+    {
+      "id": "folklorenights-2026-09-26",
+      "date": "2026-09-26",
+      "area": "Grindelwald",
+      "title": {
+        "en": "Folklorenights",
+        "de": "Folklorenights"
+      },
+      "description": {
+        "en": "Traditional Swiss folk music at Restaurant Grund; the final evening of the 2026 summer series.",
+        "de": "Traditionelle Schweizer Volksmusik im Restaurant Grund; der letzte Abend der Sommerserie 2026."
+      },
+      "sourceUrl": "https://www.myswitzerland.com/en-us/experiences/events/folklorenights/"
+    },
+    {
+      "id": "akim-tree-2026-09-26",
+      "date": "2026-09-26",
+      "area": "Grindelwald",
+      "title": {
+        "en": "Akim Tree live in Concert",
+        "de": "Akim Tree live im Konzert"
+      },
+      "description": {
+        "en": "Singer-songwriter Akim Tree performs at the Belvedere. Series runs until 17 October.",
+        "de": "Singer-Songwriter Akim Tree spielt im Belvedere. Die Serie läuft bis 17. Oktober."
+      },
+      "sourceUrl": "https://www.myswitzerland.com/de/erlebnisse/veranstaltungen/akim-tree-live-in-concert/"
+    },
+    {
+      "id": "historical-village-tour-2026-09-29",
+      "date": "2026-09-29",
+      "area": "Grindelwald",
+      "title": {
+        "en": "Historical & Culinary Village Tour",
+        "de": "Historischer und kulinarischer Dorfrundgang"
+      },
+      "description": {
+        "en": "A guided introduction to Grindelwald's village history, stories and local food culture.",
+        "de": "Ein geführter Einblick in die Dorfgeschichte, Geschichten und lokale Esskultur von Grindelwald."
+      },
+      "sourceUrl": "https://www.myswitzerland.com/en-us/experiences/events/historical-culinary-village-tour/"
+    },
+    {
+      "id": "goat-show-2026-10-01",
+      "date": "2026-10-01",
+      "area": "Grindelwald",
+      "title": {
+        "en": "Jungfrau Region Goat Show",
+        "de": "Ziegenschau der Jungfrau-Region"
+      },
+      "description": {
+        "en": "A goat show by the Grindelwald Goat Breeders' Association in Burglauenen.",
+        "de": "Ziegenschau des Grindelwalder Ziegenzuchtvereins in Burglauenen."
+      },
+      "sourceUrl": "https://www.myswitzerland.com/en-us/experiences/events/goat-show-of-the-jungfrau-region-on-the-burglauenen-schoolyard/"
+    },
+    {
+      "id": "avocado-festival-2026-10-03",
+      "date": "2026-10-03",
+      "area": "Grindelwald",
+      "title": {
+        "en": "Avocado Backyard Festival",
+        "de": "Avocado Backyard Festival"
+      },
+      "description": {
+        "en": "Live music, drinks, grilled food and market stalls in the Avocado Bar backyard.",
+        "de": "Live-Musik, Drinks, Grillgerichte und Marktstände im Hinterhof der Avocado Bar."
+      },
+      "sourceUrl": "https://www.myswitzerland.com/de-ch/erlebnisse/veranstaltungen/avocado-backyard-festival/"
+    },
+    {
+      "id": "grindelwald-market-2026-10-05",
+      "date": "2026-10-05",
+      "area": "Grindelwald",
+      "title": {
+        "en": "Grindelwald Market 2026",
+        "de": "Grindelwald Markt 2026"
+      },
+      "description": {
+        "en": "The annual market along Grindelwald's village street.",
+        "de": "Der jährliche Markt entlang der Dorfstrasse von Grindelwald."
+      },
+      "sourceUrl": "https://www.myswitzerland.com/en-us/experiences/events/grindelwald-market-2026/"
+    },
+    {
+      "id": "graubunden-weekend-2026-10-10",
+      "date": "2026-10-10",
+      "area": "Grindelwald",
+      "title": {
+        "en": "Graubünden Weekend",
+        "de": "Graubünden-Wochenende"
+      },
+      "description": {
+        "en": "A two-day Graubünden-themed weekend in Grindelwald, 10–11 October.",
+        "de": "Ein zweitägiges Graubünden-Wochenende in Grindelwald, 10.–11. Oktober."
+      },
+      "sourceUrl": "https://www.myswitzerland.com/en-us/experiences/events/graubuenden-weekend/"
+    },
+    {
+      "id": "avo-ping-pong-2026-10-11",
+      "date": "2026-10-11",
+      "area": "Grindelwald",
+      "title": {
+        "en": "Avo Ping Pong Tournament",
+        "de": "Avo Ping-Pong-Turnier"
+      },
+      "description": {
+        "en": "A relaxed ping-pong tournament with food and drinks at the Avocado Bar garden.",
+        "de": "Ein entspanntes Ping-Pong-Turnier mit Essen und Drinks im Garten der Avocado Bar."
+      }
+    },
+    {
+      "id": "cattle-show-2026-10-21",
+      "date": "2026-10-21",
+      "area": "Grindelwald",
+      "title": {
+        "en": "Autumn Cattle Show 2026",
+        "de": "Herbstliche Viehschau 2026"
+      },
+      "description": {
+        "en": "A traditional cattle show in Grindelwald, running 21–22 October.",
+        "de": "Eine traditionelle Viehschau in Grindelwald, 21.–22. Oktober."
+      },
+      "sourceUrl": "https://www.myswitzerland.com/en-us/experiences/events/autumn-cattle-show-2026/"
+    },
+    {
+      "id": "samichlous-2026-12-06",
+      "date": "2026-12-06",
+      "area": "Grindelwald",
+      "title": {
+        "en": "Dr Samichlous chund z Bsuech",
+        "de": "Dr Samichlous chund z Bsuech"
+      },
+      "description": {
+        "en": "A winter visit by Samichlaus through Grindelwald village.",
+        "de": "Ein winterlicher Besuch des Samichlaus im Dorf Grindelwald."
+      }
+    },
+    {
+      "id": "apres-ski-2026-12-12",
+      "date": "2026-12-12",
+      "area": "Grindelwald",
+      "title": {
+        "en": "Après Ski Party",
+        "de": "Après-Ski-Party"
+      },
+      "description": {
+        "en": "An après-ski party in Grindelwald village.",
+        "de": "Eine Après-Ski-Party im Dorf Grindelwald."
+      }
+    },
+    {
+      "id": "pool-party-2026-12-20",
+      "date": "2026-12-20",
+      "area": "Grindelwald",
+      "title": {
+        "en": "Pool Party",
+        "de": "Pool Party"
+      },
+      "description": {
+        "en": "A pool party at the Grindelwald indoor pool with DJ music, cocktails and snacks.",
+        "de": "Eine Pool Party im Hallenbad Grindelwald mit DJ-Musik, Cocktails und Snacks."
+      }
+    },
+    {
+      "id": "wengen-fondue-workshop-2026-09-24",
+      "date": "2026-09-24",
+      "area": "Wengen",
+      "title": {
+        "en": "Fondue Workshop",
+        "de": "Fondue-Workshop"
+      },
+      "description": {
+        "en": "A fondue workshop in Wengen.",
+        "de": "Ein Fondue-Workshop in Wengen."
+      }
+    },
+    {
+      "id": "wengen-gustav-2026-09-24",
+      "date": "2026-09-24",
+      "area": "Wengen",
+      "title": {
+        "en": "Live Music: Gustav",
+        "de": "Live-Musik: Gustav"
+      },
+      "description": {
+        "en": "Live music at Hotel Victoria Lauberhorn. Series runs until 22 October.",
+        "de": "Live-Musik im Hotel Victoria Lauberhorn. Die Serie läuft bis 22. Oktober."
+      }
+    },
+    {
+      "id": "wengen-forest-yoga-2026-09-24",
+      "date": "2026-09-24",
+      "area": "Wengen",
+      "title": {
+        "en": "Forest Walk & Yoga",
+        "de": "Waldwanderung & Yoga"
+      },
+      "description": {
+        "en": "A combined forest walk and yoga activity in Wengen. Series runs until 29 October.",
+        "de": "Eine Kombination aus Waldwanderung und Yoga in Wengen. Die Serie läuft bis 29. Oktober."
+      }
+    },
+    {
+      "id": "wengen-mat-pilates-2026-09-24",
+      "date": "2026-09-24",
+      "area": "Wengen",
+      "title": {
+        "en": "Mat Pilates",
+        "de": "Mat Pilates"
+      },
+      "description": {
+        "en": "A Mat Pilates programme at Grand Hotel Belvedere Wengen, running until 29 October.",
+        "de": "Ein Mat-Pilates-Programm im Grand Hotel Belvedere Wengen, bis 29. Oktober."
+      }
+    },
+    {
+      "id": "wengen-acoustic-duo-2026-09-24",
+      "date": "2026-09-24",
+      "area": "Wengen",
+      "title": {
+        "en": "Acoustic Duo TaDa",
+        "de": "Acoustic Duo TaDa"
+      },
+      "description": {
+        "en": "An acoustic live-music performance at Grand Hotel Belvedere Wengen.",
+        "de": "Ein akustischer Live-Musikabend im Grand Hotel Belvedere Wengen."
+      }
+    },
+    {
+      "id": "wengen-sauna-infusion-2026-09-25",
+      "date": "2026-09-25",
+      "area": "Wengen",
+      "title": {
+        "en": "Sauna Infusion",
+        "de": "Sauna-Aufguss"
+      },
+      "description": {
+        "en": "Sauna infusion sessions at Hotel Braunbär, running until 30 October.",
+        "de": "Sauna-Aufgüsse im Hotel Braunbär, bis 30. Oktober."
+      }
+    },
+    {
+      "id": "wengen-yoga-2026-09-25",
+      "date": "2026-09-25",
+      "area": "Wengen",
+      "title": {
+        "en": "Yoga at Hotel Braunbär",
+        "de": "Yoga im Hotel Braunbär"
+      },
+      "description": {
+        "en": "A yoga session in Wengen.",
+        "de": "Eine Yoga-Stunde in Wengen."
+      }
+    },
+    {
+      "id": "wengen-chasteilet-2026-09-26",
+      "date": "2026-09-26",
+      "area": "Wengen",
+      "title": {
+        "en": "Chästeilet Wengen",
+        "de": "Chästeilet Wengen"
+      },
+      "description": {
+        "en": "The traditional Wengen cheese-sharing event, held 26–27 September.",
+        "de": "Das traditionelle Wengener Käseteilen, 26.–27. September."
+      }
+    },
+    {
+      "id": "wengen-mountain-brunch-2026-09-27",
+      "date": "2026-09-27",
+      "area": "Wengen",
+      "title": {
+        "en": "Männlichen Mountain Brunch",
+        "de": "Bergbrunch Männlichen"
+      },
+      "description": {
+        "en": "Mountain brunch at Männlichen, with dates through 25 October.",
+        "de": "Bergbrunch auf dem Männlichen mit Terminen bis 25. Oktober."
+      }
+    },
+    {
+      "id": "wengen-uptown-lights-2026-09-27",
+      "date": "2026-09-27",
+      "area": "Wengen",
+      "title": {
+        "en": "Uptown Lights",
+        "de": "Uptown Lights"
+      },
+      "description": {
+        "en": "An evening event at the Braunbärbar in Wengen.",
+        "de": "Ein Abendevent in der Braunbärbar in Wengen."
+      }
+    },
+    {
+      "id": "wengen-yin-yoga-2026-09-28",
+      "date": "2026-09-28",
+      "area": "Wengen",
+      "title": {
+        "en": "Yin Yoga",
+        "de": "Yin Yoga"
+      },
+      "description": {
+        "en": "A Yin Yoga session in Wengen.",
+        "de": "Eine Yin-Yoga-Stunde in Wengen."
+      }
+    },
+    {
+      "id": "wengen-village-tour-2026-09-28",
+      "date": "2026-09-28",
+      "area": "Wengen",
+      "title": {
+        "en": "Wengen Village Tour",
+        "de": "Dorfrundgang Wengen"
+      },
+      "description": {
+        "en": "A guided walk through Wengen village.",
+        "de": "Ein geführter Rundgang durch das Dorf Wengen."
+      }
+    },
+    {
+      "id": "wengen-colin-flint-2026-09-30",
+      "date": "2026-09-30",
+      "area": "Wengen",
+      "title": {
+        "en": "Colin Flint Live Music",
+        "de": "Colin Flint Live-Musik"
+      },
+      "description": {
+        "en": "Live music at Hotel Braunbär in Wengen.",
+        "de": "Live-Musik im Hotel Braunbär in Wengen."
+      }
+    },
+    {
+      "id": "wengen-floating-sound-bath-2026-10-24",
+      "date": "2026-10-24",
+      "area": "Wengen",
+      "title": {
+        "en": "Floating Sound Bath",
+        "de": "Floating Sound Bath"
+      },
+      "description": {
+        "en": "A floating sound bath at Hotel Braunbär Wengen.",
+        "de": "Ein Floating Sound Bath im Hotel Braunbär Wengen."
+      }
+    },
+    {
+      "id": "wengen-gluhwein-festival-2026-12-19",
+      "date": "2026-12-19",
+      "area": "Wengen",
+      "title": {
+        "en": "8th Mulled Wine Festival",
+        "de": "8. Glühwein-Festival"
+      },
+      "description": {
+        "en": "Wengen's mulled-wine festival.",
+        "de": "Das Glühwein-Festival in Wengen."
+      }
+    },
+    {
+      "id": "wengen-christmas-concert-2026-12-20",
+      "date": "2026-12-20",
+      "area": "Wengen",
+      "title": {
+        "en": "Wengen Christmas Concert",
+        "de": "Weihnachtskonzert Musikgesellschaft Wengen"
+      },
+      "description": {
+        "en": "A Christmas concert by Wengen's local music society.",
+        "de": "Ein Weihnachtskonzert der Musikgesellschaft Wengen."
+      }
+    }
   ]
 }
