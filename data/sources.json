@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Grindelwald Tourism event calendar (Guest Card)",
+    "url": "https://grindelwald.swiss/de/entdecken/events/veranstaltungskalender.html",
+    "area": "Grindelwald",
+    "type": "official tourism calendar"
+  },
+  {
+    "name": "Switzerland Tourism - Grindelwald events",
+    "url": "https://www.myswitzerland.com/en-us/experiences/events/events-search/-/grindelwald/",
+    "area": "Grindelwald",
+    "type": "official tourism listing"
+  },
+  {
+    "name": "Gemeinde Grindelwald agenda",
+    "url": "https://www.gemeinde-grindelwald.ch/agenda/",
+    "area": "Grindelwald",
+    "type": "municipal calendar"
+  },
+  {
+    "name": "Switzerland Tourism - Wengen events",
+    "url": "https://www.myswitzerland.com/de/erlebnisse/veranstaltungen/veranstaltungen-suche/-/wengen/",
+    "area": "Wengen",
+    "type": "official tourism listing"
+  }
+]
