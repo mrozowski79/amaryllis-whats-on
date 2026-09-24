@@ -1,0 +1,10 @@
+{
+  "name": "amaryllis-whats-on",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "validate": "node scripts/validate.mjs",
+    "build": "node scripts/render.mjs",
+    "check": "npm run validate && npm run build"
+  }
+}
